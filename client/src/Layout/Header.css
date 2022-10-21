@@ -1,0 +1,15 @@
+.apbar{
+    width:40px;
+    display: flex;
+}
+.logo{
+    width: 60px;
+}
+.chatAP{
+    font-family: 'Times New Roman', Times, serif;
+    color: #ff5833e0;
+    margin: 0 50% 0 0;
+    font-size: 40px;
+    font-weight: 600;
+    width: 450px;
+}
